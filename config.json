@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "object-oriented-design",
+      "title": "Object-Oriented Design",
+      "description": "Model a real-world system with classes, inheritance, and composition in Python.",
+      "path": "assignments/object-oriented-design",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
